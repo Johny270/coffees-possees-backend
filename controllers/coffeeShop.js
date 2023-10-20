@@ -38,6 +38,7 @@ async function show(req, res) {
   }
 }
 
+
 async function update(req, res) {
   try {
     req.body.location = req.body.address.city
