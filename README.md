@@ -1,1 +1,1 @@
-## [Click here for the main repository (front-end)]('https://github.com/Johny270/coffees-posses-frontend.git')
+## [Click here for the main repository (front-end)](https://github.com/Johny270/coffees-posses-frontend.git)
